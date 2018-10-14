@@ -8,6 +8,7 @@
 
 define('TITRE','MidjoTogo');
 define('NAV_ACCUEIL','Accueil');
-define('NAV_INFOS','Informations');
-define('NAV_DOMAINES','Domaines');
-define('NAV_CONTACT','Contact');
+define('NAV_STAGE','Stages/missions');
+define('NAV_INSCRIPTION','Inscription');
+define('NAV_TEMOIGNAGE','Temoignage');
+define('NAV_PHOTOS','Photos');

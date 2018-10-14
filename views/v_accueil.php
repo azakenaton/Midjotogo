@@ -9,7 +9,7 @@
 
 require_once(PATH_VIEWS.'header.php');?>
 
-<div class="page-header header-filter clear-filter" data-parallax="true" >
+<div class="parallax" data-parallax="true" >
     <div class="container">
         <div class="row">
             <div class="col-md-8 ml-auto mr-auto">

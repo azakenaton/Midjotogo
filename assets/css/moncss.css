@@ -31,7 +31,7 @@
 .nav-item{
     padding-left: 15px;
     padding-right: 15px;
-    background-color: rgba(15,157,88,0.7);
+    /*background-color: rgba(15,157,88,0.7);*/
     /*background-color: darkgreen;*/
     /*opacity: 0.5;*/
 }
@@ -90,4 +90,8 @@ p{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#carousel_desc{
+    background-color: black;
 }

@@ -9,7 +9,7 @@
 
 require_once(PATH_VIEWS.'header.php');?>
 
-<div class="parallax" data-parallax="true" >
+<!--<div class="parallax" data-parallax="true" >
     <div class="container">
         <div class="row">
             <div class="col-md-8 ml-auto mr-auto">
@@ -19,7 +19,7 @@ require_once(PATH_VIEWS.'header.php');?>
             </div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="main main-raised">
     <div class="container">
@@ -62,55 +62,55 @@ require_once(PATH_VIEWS.'header.php');?>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/photo_membres.jpg" alt="Première">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Photo des membres</h5>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/etiam.jpg" alt="Deuxième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Etiam</h5>
                             <p id="carousel-text">ABASSA président, animateur, percussioniste </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/charbelle.jpg" alt="Troisième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Charbelle</h5>
                             <p id="carousel-text">Trésorière, animatrice, danseuse </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Edem.jpg" alt="Quatrième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Edem</h5>
                             <p id="carousel-text">Animateur, danseur </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Ekue.jpg" alt="Cinquième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Ekue</h5>
                             <p id="carousel-text">Animateur, danseur </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/aaron.jpg" alt="Sixième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Aaron</h5>
                             <p id="carousel-text">Percussioniste </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Fréna.jpg" alt="Septième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Fréna</h5>
                             <p id="carousel-text">Percussioniste, artiste plasticien </p>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/victoire.jpg" alt="Huitième">
-                        <div class="carousel-caption d-none d-md-block">
+                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Victoire</h5>
                             <p id="carousel-text">Danseuse</p>
                         </div>

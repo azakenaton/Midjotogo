@@ -7,6 +7,7 @@
  */
 
 define('TITRE','MidjoTogo');
+define('TITRE_404','ERREUR 404');
 define('NAV_ACCUEIL','Accueil');
 define('NAV_STAGE','Stages/missions');
 define('NAV_INSCRIPTION','Inscription');

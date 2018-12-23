@@ -7,23 +7,11 @@
  */
 
 
-require_once(PATH_VIEWS.'header.php');?>
-
-<!--<div class="parallax" data-parallax="true" >
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 ml-auto mr-auto">
-                <div class="brand text-center" id="title">
-                    <h1 class="title"><?=TITRE?></h1>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>-->
+require_once(PATH_VIEWS.'header.php');
+require_once(PATH_VIEWS.'parralax.php');?>
 
 <div class="main main-raised">
     <div class="container">
-        <img src="<?=PATH_IMAGES?>logo1.jpg" id="logo">
         <div class="section">
             <div class="title">
                 <h2>Bienvenue sur l'accueil du site de Midjo Togo</h2>
@@ -130,5 +118,5 @@ require_once(PATH_VIEWS.'header.php');?>
 </div>
 
 
-
+<?php require_once (PATH_VIEWS.'footer.php');?>
 

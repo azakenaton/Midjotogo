@@ -45,13 +45,13 @@
             <li class="nav-item">
                 <a <?php if($_SESSION['nav_en_cours'] == 'inscription') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=inscription">Inscription</a>
             </li>
-            <li>
+            <li class="nav-item">
                 <a <?php if($_SESSION['nav_en_cours'] == 'temoignage') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=temoignage">Témoignage</a>
             </li>
-            <li>
+            <li class="nav-item">
                 <a <?php if($_SESSION['nav_en_cours'] == 'photo') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=photo">Photo</a>
             </li>
-            <li>
+            <li class="nav-item">
                 <a <?php if($_SESSION['nav_en_cours'] == 'actualite') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=actualites">Actualités</a>
             </li>
         </ul>

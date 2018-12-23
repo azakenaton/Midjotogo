@@ -46,7 +46,7 @@
         <div class="row">
 
             <!-- Grid column -->
-            <div class="col-md-10 mx-auto">
+            <div class="col-md-6 mx-auto">
 
                 <!-- Content -->
                 <h5 class="font-weight-bold">Midjotogo</h5>
@@ -73,24 +73,29 @@
 
             <hr class="clearfix w-100 d-md-none">
 
+            <div class="col-md-4 mx-auto">
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4039392.1226306893!2d-0.972654786391437!3d8.625626001177688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1023e1c113185419%3A0xfaae5b301ad19360!2sTogo!5e0!3m2!1sfr!2sfr!4v1545601821819" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+            </div>
+
+            <hr class="clearfix w-100 d-md-none">
+
             <!-- Grid column -->
             <div class="col-md-2 mx-auto">
 
                 <!-- Links -->
-                <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Links</h5>
+                <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Liens utiles</h5>
 
                 <ul class="list-unstyled">
                     <li>
-                        <a href="#!">Link 1</a>
+                        <a href="index.php?page=contact">Contact</a>
                     </li>
                     <li>
-                        <a href="#!">Link 2</a>
+                        <a href="index.php?page=accueil">Accueil</a>
                     </li>
                     <li>
-                        <a href="#!">Link 3</a>
-                    </li>
-                    <li>
-                        <a href="#!">Link 4</a>
+                        <a href="index.php?page=inscription">Inscription</a>
                     </li>
                 </ul>
 
@@ -117,18 +122,8 @@
             </a>
         </li>
         <li class="list-inline-item">
-            <a class="btn-floating btn-gplus mx-1">
-                <i class="fab fa-google-plus-g"> </i>
-            </a>
-        </li>
-        <li class="list-inline-item">
-            <a class="btn-floating btn-li mx-1">
-                <i class="fab fa-linkedin-in"> </i>
-            </a>
-        </li>
-        <li class="list-inline-item">
-            <a class="btn-floating btn-dribbble mx-1">
-                <i class="fab fa-dribbble"> </i>
+            <a class="btn-floating btn-dribbble mx-1" href="http://midjotogo.blogspot.com/">
+                <i class="fas fa-blog"> </i>
             </a>
         </li>
     </ul>

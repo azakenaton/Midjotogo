@@ -75,32 +75,94 @@
 
             <div class="col-md-4 mx-auto">
 
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4039392.1226306893!2d-0.972654786391437!3d8.625626001177688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1023e1c113185419%3A0xfaae5b301ad19360!2sTogo!5e0!3m2!1sfr!2sfr!4v1545601821819" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4039392.1226306893!2d-0.972654786391437!3d8.625626001177688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1023e1c113185419%3A0xfaae5b301ad19360!2sTogo!5e0!3m2!1sfr!2sfr!4v1545601821819" width="350" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 
             </div>
-
-            <hr class="clearfix w-100 d-md-none">
+        </div>
+        <div class="row">
 
             <!-- Grid column -->
             <div class="col-md-2 mx-auto">
 
                 <!-- Links -->
-                <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Liens utiles</h5>
 
                 <ul class="list-unstyled">
                     <li>
-                        <a href="index.php?page=contact">Contact</a>
+                        Président, ABASSA Etiam
+
                     </li>
                     <li>
-                        <a href="index.php?page=accueil">Accueil</a>
-                    </li>
-                    <li>
-                        <a href="index.php?page=inscription">Inscription</a>
+                        +228 91 09 97 71/ 96 01 71 05
                     </li>
                 </ul>
 
             </div>
+
             <!-- Grid column -->
+            <div class="col-md-2 mx-auto">
+
+                <!-- Links -->
+
+
+                <ul class="list-unstyled">
+                    <li>
+                        Chef animateur, AGBO Mawuli
+
+                    </li>
+                    <li>
+                        +49 1573 620 610 9
+                    </li>
+                </ul>
+
+            </div>
+
+            <div class="col-md-2 mx-auto">
+
+                <!-- Links -->
+
+                <ul class="list-unstyled">
+                    <li>
+                        deutsche Koordinatorin, AGBO Mia
+
+                    </li>
+                    <li>
+                        +49 15 75 90 21 78 5
+                    </li>
+                </ul>
+
+            </div>
+
+
+            <div class="col-md-2 mx-auto">
+
+                <!-- Links -->
+
+                <ul class="list-unstyled">
+                    <li>
+                        Contacte France,GBAFA-WONA Sodji
+                    </li>
+                    <li>
+                        +33 65 10 65 62 6
+                    </li>
+                </ul>
+
+            </div>
+
+
+            <div class="col-md-2 mx-auto">
+
+                <!-- Links -->
+
+                <ul class="list-unstyled">
+                    <li>
+                        Contact Belgique, AGBO Yawovi
+                    </li>
+                    <li>
+                        +32 46 63 86 42 1
+                    </li>
+                </ul>
+
+            </div>
 
         </div>
         <!-- Grid row -->

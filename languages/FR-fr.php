@@ -13,3 +13,5 @@ define('NAV_STAGE','Stages/missions');
 define('NAV_INSCRIPTION','Inscription');
 define('NAV_TEMOIGNAGE','Temoignage');
 define('NAV_PHOTOS','Photos');
+define('ALL','Deutsch');
+define('FR','Français');

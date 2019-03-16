@@ -19,6 +19,7 @@ define('PATH_TEXTES','./languages/');
 define('PATH_CSS','./assets/css/');
 define('PATH_IMAGES','./assets/img/');
 define('PATH_SCRIPTS','./assets/js/');
+define('PATH_PDF','./assets/pdf/');
 //define("PATH_GALERIE",'galerie/');
 //define('PATH_LOG','log/');
 

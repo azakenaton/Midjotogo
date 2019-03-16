@@ -19,10 +19,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Tabea_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Tabea_fr"><?=FR?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Tabea_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Tabea_all"><?=ALL?></a>
                         </li>
                     </ul>
                 </div>
@@ -50,10 +50,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Etiam_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Etiam_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Etiam_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Etiam_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>
@@ -84,10 +84,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Kokou_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Kokou_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Kokou_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Kokou_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>
@@ -119,10 +119,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Mia_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Mia_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Mia_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Mia_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>
@@ -168,10 +168,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Frena_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Frena_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Frena_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Frena_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>
@@ -212,10 +212,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Charbelle_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Charbelle_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Charbelle_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Charbelle_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>
@@ -252,10 +252,10 @@ require_once(PATH_VIEWS.'parralax.php');
                 <div class="card-header">
                     <ul class="nav nav-tabs card-header-tabs" role="tablist">
                         <li class="nav-item">
-                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Marilen_fr">Français</a>
+                            <a class="nav-link active" id="card-tab" data-toggle="tab" role="tab" aria-controls="français" aria-selected="true" href="#Marilen_fr"><?= FR ?></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Marilen_all">Allemand</a>
+                            <a class="nav-link" id="card-tab" data-toggle="tab" role="tab" aria-controls="allemand" aria-selected="false" href="#Marilen_all"><?= ALL ?></a>
                         </li>
                     </ul>
                 </div>

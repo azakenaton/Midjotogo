@@ -32,7 +32,6 @@ require_once(PATH_VIEWS.'parralax.php');
                 <a class="nav-link link_scroll" href="#frais">Frais</a>
                 <a class="nav-link link_scroll" href="#financement">Financement</a>
                 <a class="nav-link link_scroll" href="#sejour">Préparer son séjour</a>
-                <a class="nav-link link_scroll" href="#stage">Stage</a>
             </nav>
         </nav>
 
@@ -85,7 +84,7 @@ require_once(PATH_VIEWS.'parralax.php');
                     <td class="tg-0lax">Lomé</td>
                     <td class="tg-0lax">Interventions de Midjo dans des établissements scolaires et autres centres d'enfants dans le but de les sensibiliser et les former</td>
                     <td class="tg-0lax">1.: Préparation des spectacles artistiques dans les écoles
-                        </br>2.: Aider les écoliers à trverser la route poureviter les accidents</td>
+                        </br>2.: Aider les écoliers à traverser la route pour eviter les accidents</td>
                     <td class="tg-0lax">Tout au long de l'année</td>
                 </tr>
                 <tr>
@@ -142,7 +141,7 @@ require_once(PATH_VIEWS.'parralax.php');
                     <td class="tg-gx9h">Gestion de l’association</td>
                     <td class="tg-s268">Dépenses liées à la logistique et à la gestion administrative de MIDJO</td>
                     <td class="tg-s268">30%</td>
-                    <td class="tg-s268">15€ / 9.840CFA</td>
+                    <td class="tg-s268">20€ / 9.840CFA</td>
                 </tr>
                 <tr>
                     <td class="tg-gx9h">Sous-location appartement</td>
@@ -150,7 +149,7 @@ require_once(PATH_VIEWS.'parralax.php');
                         pour les volontaires-bénévoles. Cette contribution permet de nous soutenir lorsque l’habitation
                         est laissée vacante</td>
                     <td class="tg-s268">30%</td>
-                    <td class="tg-s268">15€ / 9.840CFA</td>
+                    <td class="tg-s268">30€ / 9.840CFA</td>
                 </tr>
                 <tr>
                     <td class="tg-gx9h">Indemnisation animateurs / éducateurs</td>
@@ -163,7 +162,7 @@ require_once(PATH_VIEWS.'parralax.php');
                     <td class="tg-gx9h">TOTAL</td>
                     <td class="tg-s268"></td>
                     <td class="tg-s268">100%</td>
-                    <td class="tg-s268">50€ / 32.800CFA</td>
+                    <td class="tg-s268">70€ / 32.800CFA</td>
                 </tr>
             </table>
             <p>
@@ -191,6 +190,7 @@ require_once(PATH_VIEWS.'parralax.php');
                 En suivant ce <a href="https://drive.google.com/file/d/0Bw6S3V-ZJ-XZQzhnc29RQjdibnc/view">lien</a> vous pourrez consulter un document qui vous indique les démarches à suivre pour
                 obtenir des soutiens financiers pour préparer votre projet plus sereinement.
             </p>
+            <!-- Ajouter fichier budget_volontariat -->
             <h3 class="titre_scroll" id="sejour">Préparer son séjour</h3>
             <p>
                 Il n'est jamais simple de préparer un séjour et c'est encore moins simple lorsque l'on s'apprête à
@@ -211,11 +211,6 @@ require_once(PATH_VIEWS.'parralax.php');
                 de prendre avec vous:</br></br><a href="https://drive.google.com/file/d/0Bw6S3V-ZJ-XZZk9GUktnVWtvWjQ/view">Cliquez ici</a>
                 </br></br>
             </p>
-            <h3 class="titre_scroll" id="stage">Stage</h3>
-            <p>L'association Midjo Togo vous propose d'effectuer des stages conventionnés ou non pour les personnes voulant découvrir une autre culture, une autre manière de vivre.</p>
-            <iframe src="<?PATH_PDF?>stage1.pdf" width="600" height="800" id="iframe"></iframe>
-            <p>Les missions proposées :</p>
-            <iframe src="<?PATH_PDF?>stage2missions.pdf" width="600" height="800" id="iframe"></iframe>
         </div>
         <?php require_once (PATH_VIEWS.'footer.php');?>
     </div>

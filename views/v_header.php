@@ -52,6 +52,9 @@
             <li class="nav-item">
                 <a <?php if($_SESSION['nav_en_cours'] == 'actualite') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=actualites">Actualités</a>
             </li>
+            <li class="nav-item">
+                <a <?php if($_SESSION['nav_en_cours'] == 'stage') {echo 'id="en-cours"';} ?> class="nav-link" href="index.php?page=stage">Stage</a>
+            </li>
         </ul>
     </div>
 </nav>

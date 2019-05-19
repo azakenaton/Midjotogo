@@ -41,68 +41,68 @@ require_once(PATH_VIEWS.'parralax.php');?>
                     <li data-target="#carousel" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel" data-slide-to="1"></li>
                     <li data-target="#carousel" data-slide-to="2"></li>
-                    <li data-target="#carousel" data-slide-to="3"></li>
+                    <!--<li data-target="#carousel" data-slide-to="3"></li>
                     <li data-target="#carousel" data-slide-to="4"></li>
                     <li data-target="#carousel" data-slide-to="5"></li>
                     <li data-target="#carousel" data-slide-to="6"></li>
-                    <li data-target="#carousel" data-slide-to="7"></li>
+                    <li data-target="#carousel" data-slide-to="7"></li>-->
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/photo_membres.jpg" alt="Première">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/photo_membres.jpg" alt="Première" width="1080px" height="710px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Photo des membres</h5>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/etiam.jpg" alt="Deuxième">
-                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/etiam_presentation.jpg" alt="Deuxième">
+                        <!--<div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Etiam</h5>
                             <p id="carousel-text">ABASSA président, animateur, percussioniste </p>
-                        </div>
+                        </div>-->
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/charbelle.jpg" alt="Troisième">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/frena_presentation.jpg" alt="Troisième">
+                        <!--<div class="carousel-caption d-none d-md-block" id="carousel_desc">
+                            <h5>Etiam</h5>
+                            <p id="carousel-text">ABASSA président, animateur, percussioniste </p>
+                        </div>-->
+                    </div>
+                    <!--<div class="carousel-item">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/charbelle.jpg" alt="Quatrième" width="1080px" height="800px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Charbelle</h5>
                             <p id="carousel-text">Trésorière, animatrice, danseuse </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Edem.jpg" alt="Quatrième">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Edem.jpg" alt="Cinquième" width="1080px" height="530px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Edem</h5>
                             <p id="carousel-text">Animateur, danseur </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Ekue.jpg" alt="Cinquième">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Ekue.jpg" alt="Sixième" width="1080px" height="530px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Ekue</h5>
                             <p id="carousel-text">Animateur, danseur </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/aaron.jpg" alt="Sixième">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/aaron.jpg" alt="Septième" width="1080px" height="530px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Aaron</h5>
                             <p id="carousel-text">Percussioniste </p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/Fréna.jpg" alt="Septième">
-                        <div class="carousel-caption d-none d-md-block" id="carousel_desc">
-                            <h5>Fréna</h5>
-                            <p id="carousel-text">Percussioniste, artiste plasticien </p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/victoire.jpg" alt="Huitième">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/victoire.jpg" alt="Huitième" width="1080px" height="530px">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Victoire</h5>
                             <p id="carousel-text">Danseuse</p>
                         </div>
-                    </div>
+                    </div>!-->
                 </div>
                 <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

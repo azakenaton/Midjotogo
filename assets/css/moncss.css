@@ -173,3 +173,29 @@ h1{
     height: 100px;
 }
 
+.gallery {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column: 33% 3;
+    -moz-column: 33% 3;
+    column: 33% 3; }
+.gallery .pics {
+    -webkit-transition: all 350ms ease;
+    transition: all 350ms ease; }
+.gallery .animation {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1); }
+
+@media (max-width: 450px) {
+    .gallery {
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        column-count: 1;
+        -webkit-column: 100% 1;
+        -moz-column: 100% 1;
+        column: 100% 1;
+    }
+}
+

@@ -49,7 +49,7 @@ require_once(PATH_VIEWS.'parralax.php');?>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/photo_membres.jpg" alt="Première" width="1080px" height="710px">
+                        <img class="d-block w-100" src="<?= PATH_IMAGES ?>membres/photo_membres.jpg" alt="Première" id="photo_midjo">
                         <div class="carousel-caption d-none d-md-block" id="carousel_desc">
                             <h5>Photo des membres</h5>
                         </div>

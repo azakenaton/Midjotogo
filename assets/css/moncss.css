@@ -166,6 +166,11 @@ h1{
     font-weight: bold;
 }
 
+#photo_midjo{
+    width: 1080px;
+    height: 750px;
+}
+
 .footer{
     padding-top: 50px;
     color:rgba(175, 246, 4,1);
@@ -196,6 +201,10 @@ h1{
         -webkit-column: 100% 1;
         -moz-column: 100% 1;
         column: 100% 1;
+    }
+    #photo_midjo{
+        width:  540px;
+        height: 375px;
     }
 }
 

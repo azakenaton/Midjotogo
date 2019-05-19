@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654f94d1-44cd-4bb1-9e48-ec6f430638b5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets/css/moncss.css" afterPath="$PROJECT_DIR$/assets/css/moncss.css" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/inscription_stage.pdf" afterPath="$PROJECT_DIR$/assets/pdf/inscription_stage.pdf" />
       <change beforePath="$PROJECT_DIR$/views/v_accueil.php" afterPath="$PROJECT_DIR$/views/v_accueil.php" />
-      <change beforePath="$PROJECT_DIR$/views/v_header.php" afterPath="$PROJECT_DIR$/views/v_header.php" />
-      <change beforePath="$PROJECT_DIR$/views/v_photo.php" afterPath="$PROJECT_DIR$/views/v_photo.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +29,8 @@
       <file leaf-file-name="v_photo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/v_photo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -42,21 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="v_header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="v_header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/v_header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="36" column="129" lean-forward="false" selection-start-line="36" selection-start-column="129" selection-end-line="36" selection-end-column="129" />
+            <state relative-caret-position="1000">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moncss.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="moncss.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/moncss.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="14" />
+            <state relative-caret-position="2800">
+              <caret line="112" column="36" lean-forward="true" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -65,8 +61,8 @@
       <file leaf-file-name="v_accueil.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/v_accueil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-415">
-              <caret line="58" column="95" lean-forward="true" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
+            <state relative-caret-position="385">
+              <caret line="51" column="132" lean-forward="false" selection-start-line="51" selection-start-column="132" selection-end-line="51" selection-end-column="132" />
               <folding />
             </state>
           </provider>
@@ -131,10 +127,10 @@
         <option value="$PROJECT_DIR$/controllers/c_actualites.php" />
         <option value="$PROJECT_DIR$/views/v_stage.php" />
         <option value="$PROJECT_DIR$/assets/js/MonJS.js" />
-        <option value="$PROJECT_DIR$/assets/css/moncss.css" />
         <option value="$PROJECT_DIR$/views/v_photo.php" />
-        <option value="$PROJECT_DIR$/views/v_accueil.php" />
         <option value="$PROJECT_DIR$/views/v_header.php" />
+        <option value="$PROJECT_DIR$/views/v_accueil.php" />
+        <option value="$PROJECT_DIR$/assets/css/moncss.css" />
       </list>
     </option>
   </component>
@@ -288,12 +284,12 @@
       <workItem from="1554370086400" duration="23000" />
       <workItem from="1557053266524" duration="404000" />
       <workItem from="1557905018777" duration="8888000" />
-      <workItem from="1558275954338" duration="2136000" />
+      <workItem from="1558275954338" duration="2944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87277000" />
+    <option name="totallyTimeSpent" value="88085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="0" />
@@ -670,36 +666,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/v_accueil.php">
+    <entry file="file://$PROJECT_DIR$/views/v_header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="58" column="95" lean-forward="true" selection-start-line="58" selection-start-column="95" selection-end-line="58" selection-end-column="95" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/moncss.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="14" />
+        <state relative-caret-position="1000">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/v_photo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/v_header.php">
+    <entry file="file://$PROJECT_DIR$/views/v_accueil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="36" column="129" lean-forward="false" selection-start-line="36" selection-start-column="129" selection-end-line="36" selection-end-column="129" />
+        <state relative-caret-position="385">
+          <caret line="51" column="132" lean-forward="false" selection-start-line="51" selection-start-column="132" selection-end-line="51" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/moncss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="112" column="36" lean-forward="true" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
           <folding />
         </state>
       </provider>
